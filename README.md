@@ -2,7 +2,7 @@
 
 An advanced HR performance dashboard built using **Next.js App Router**, **Tailwind CSS**, and **Context API**. Easily search, filter, bookmark, and analyze employee data with a sleek dark/light UI toggle.
 
-🔗 **Live Demo**: [hr-portal.vercel.app](https://hr-portal-awdiibwx4-jainsahab0120s-projects.vercel.app/)
+🔗 **Live Demo**: [hr-portal.vercel.app](https://hr-portal-inky.vercel.app/)
 
 ---
 
