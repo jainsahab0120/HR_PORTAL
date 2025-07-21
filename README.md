@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img width="1470" height="795" alt="employee-info" src="https://github.com/user-attachments/assets/5f33ee84-378e-4e62-a0c4-d19a6480400d" /># 💼 HR Dashboard (Advanced)
 
-## Getting Started
+An advanced HR performance dashboard built using **Next.js App Router**, **Tailwind CSS**, and **Context API**. Easily search, filter, bookmark, and analyze employee data with a sleek dark/light UI toggle.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🔍 Search and filter employees by department
+- 📌 Bookmark favorite employees
+- 📊 View department & rating analytics (mock data)
+- 🌗 Dark/Light mode toggle
+- 🧑‍💼 Individual employee detail view with tabs
+- ⚡ Built with modern UI components using Tailwind
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Preview Screens
 
-## Learn More
+### 🧾 Dashboard (All Employees List)
+![Dashboard](./project-image/dashboard.png)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🔍 Search + Filter by Department
+![Filter](./project-image/filter.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+### 🧑‍💼 Employee Info with Tabs (Overview, Projects, Feedback)
+![Employee Info](./project-image/employee-info.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 📌 Bookmarked Employees
+![Bookmarks](./project-image/bookmark.png)
+
+---
+
+### 📊 Analytics Dashboard
+![Analytics](./project-image/analytics.png)
+
+---
+
+### 🌙 Theme Toggle (Dark/Light)
+![Theme Toggle](./project-image/dark-theme.png)
+
+---
+
+## 🧾 Folder Structure
+
